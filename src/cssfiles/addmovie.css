@@ -1,0 +1,111 @@
+.modal{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(52, 210, 235);
+    margin-left: 500px;
+    box-shadow:6px 14px 29px 3px grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button-add{
+    width: 206px;
+    height: 267px;
+    border: solid black;
+    font-size: 150px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.button-add:hover{
+    color: grey;
+    border: solid grey;
+}
+
+h2{
+    font-size: 45px;
+    font-family: sans-serif;
+    color: white;  
+}
+
+.movie-Name-p{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.input-Moviename{
+    width: 200px;
+    height: 25px;
+    padding-left: 15px;
+    border-radius: 15px;
+    border:none;
+}
+.ReleaseYear-p{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+
+}
+.input-Release{
+    width: 200px;
+    height: 25px;
+    padding-left: 15px;
+    border-radius: 15px;
+    border:none;
+}
+
+.button-close-modal{
+    width: 80px;
+    height:35px;
+    background-color: inherit;
+    color: white;
+    border: solid white 0.5px;
+    border-radius:15px;
+}
+.button-add-in-modal{
+    width: 80px;
+    height:35px;
+    background-color: inherit;
+    color: white;
+    border: solid white 0.5px;
+    border-radius:15px;
+}
+
+.button-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 190px;
+    margin-top:40px ;
+  
+}
+.rate-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rate-p{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white; 
+    margin-right: 10px;
+
+}
+
+.Movie-image-p{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+
+}
+.input-Movieimage{
+    width: 200px;
+    height: 25px;
+    padding-left: 15px;
+    border-radius: 15px;
+    border:none;
+}
+
+

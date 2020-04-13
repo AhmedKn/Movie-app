@@ -1,0 +1,26 @@
+.cards-section{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    padding-bottom: 50px;
+   
+    
+}
+
+.movie-card{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+}
+.Page-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid black 2px;
+}

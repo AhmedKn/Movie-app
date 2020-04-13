@@ -1,0 +1,38 @@
+.movie-card{
+    border: solid black;
+    width: 200px;
+
+    overflow: hidden;
+}
+
+.rate{
+    border-left: solid black;
+    border-bottom: solid black;
+    margin-top: -19px;
+    width: fit-content;
+    margin-left: 130px;
+    background-color: white;
+    padding-top: 15px;
+    width: 67px;
+    
+    
+}
+
+.name-year{
+    border-top: solid black;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin-top:0px ;
+    
+}
+.image-card{
+    width: 200px;
+    height: 210px;
+    margin-top:-39px;
+}
+
+.top-part{
+    display: flex;
+    flex-direction: column-reverse;
+}

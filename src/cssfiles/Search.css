@@ -1,0 +1,36 @@
+.Search-Bar{
+    width: 398px;
+}
+.Search-section{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+}
+
+.Search-Bar{
+    border:black solid;
+    height: 35px;
+    padding-left: 10px;
+    font-size:18px ;
+}
+
+.Btn-search {
+    border:black solid;
+    height: 43px;
+    width: 80px;
+    background-color: white;
+    font-family: sans-serif;
+    font-size:18px ;
+
+}
+
+.Btn-search{
+    border-left: none;
+}
+.minimum-rating{
+    margin-bottom: 5px;
+}
+.rate-filter{
+    margin-top: -13px;
+}
